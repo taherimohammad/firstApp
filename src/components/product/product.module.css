@@ -1,0 +1,50 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px 40px;
+    box-shadow: 0 10px 80 px rgba(0, 0, 0, 0.065);
+    display: flex;
+    justify-content: space-between;
+    width: 40rem;
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: white;
+    border: 2px solid #6d28d9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #6d28d9;
+}
+
+.pluseBtn {
+    background-color: #6d28d9;
+    color: whitesmoke;
+    margin: 0 10px;
+}
+.value {
+    background-color: white;
+    border: 2px solid #6d28d9;
+    padding: 5px 10px;
+    border-radius: 50%;
+    color: #6d28d9;
+}
+
+input {
+    border: 2px solid #6d28d9;
+    color: #6d28d9;
+    border-radius: 10px;
+}
+
+.remove {
+    color: tomato;
+    border: 2px solid tomato;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    width: 100px;
+    justify-content: space-between;
+}

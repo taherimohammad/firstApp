@@ -1,0 +1,13 @@
+.filterContainer {
+    display: flex;
+    align-items: center;
+}
+
+.filterContainer p {
+    display: block;
+    margin-right: 20px;
+}
+
+.select {
+    width: 10rem;
+}
